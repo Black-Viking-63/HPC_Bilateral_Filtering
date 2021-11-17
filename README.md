@@ -18,4 +18,8 @@ Original Image | Bilateral CPU | Bilateral GPU |
 |   | 8.35223<br>seconds|0.00267<br> seconds|
 
 # Результаты
+Bilateral CPU | Bilateral GPU | Boost
+:----:|:----:|:----:|
+8.35223<br>seconds|0.00267<br> seconds| 3123 |<br><br>
+
 В результате работы алгоритмов было выявлено ускорение пордяка 3100 единиц, что говорит об успешности применении GPU. 
