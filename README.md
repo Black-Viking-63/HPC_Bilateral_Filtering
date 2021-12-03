@@ -17,7 +17,7 @@ Original Image | Bilateral CPU | Bilateral GPU |
 ![Screenshot](original.bmp) | ![Screenshot](cpu_output.bmp) | ![Screenshot](gpu_output.bmp) | 
 |   | 108.20402<br>seconds|0.02473<br> seconds|
 
-# results
+# Results
 Bilateral CPU | Bilateral GPU | Boost
 :----:|:----:|:----:|
 108.20402<br>seconds|0.02473<br> seconds| 4375 |<br><br>
