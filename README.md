@@ -15,11 +15,11 @@ CPU: Intel(R) Xeon(R) CPU @ 2.30GHz
 Original Image | Bilateral CPU | Bilateral GPU | 
 :----:|:----:|:----:|
 ![Screenshot](original.bmp) | ![Screenshot](cpu_output.bmp) | ![Screenshot](gpu_output.bmp) | 
-|   | 8.35223<br>seconds|0.00267<br> seconds|
+|   | 108.20402<br>seconds|0.02473<br> seconds|
 
 # Результаты
 Bilateral CPU | Bilateral GPU | Boost
 :----:|:----:|:----:|
-8.35223<br>seconds|0.00267<br> seconds| 3123 |<br><br>
+108.20402<br>seconds|0.02473<br> seconds| 4375 |<br><br>
 
-В результате работы алгоритмов было выявлено ускорение пордяка 3100 единиц, что говорит об успешности применении GPU. 
+В результате работы алгоритмов было выявлено ускорение пордяка 4375 единиц, что говорит об успешности применении GPU. 
