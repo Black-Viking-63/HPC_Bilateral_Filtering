@@ -5,7 +5,7 @@ Given the image of size M*N, implement and apply a CUDA version of 9-point bilat
 result to output image. Missing values for edge rows and columns are to be taken from nearest pixels. CUDA<br>
 implementation must make use of texture memory.<br>
 
-# Программные и аппаратные срвества<br>
+# Tools<br>
 Programming language: Python v3.7.12<br>
 IDE: Google Colaboratory<br>
 GPU: Tesla K80<br>
